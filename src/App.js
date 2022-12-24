@@ -1,18 +1,14 @@
 import "./App.css";
-<<<<<<< HEAD
 import Main from "./Main/Main";
-=======
 import Login from "./Login/Login";
->>>>>>> a30afd7 ([yoon] login)
+import Signup from "./Signup/Signup";
 
 const App = () => {
   return (
     <div className="App">
-<<<<<<< HEAD
       <Main />
-=======
       <Login />
->>>>>>> a30afd7 ([yoon] login)
+      <Signup />
     </div>
   );
 };
